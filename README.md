@@ -18,8 +18,6 @@
 ║  USER      : pyonpyonn                                               ║
 ║  CLASS     : Full-Stack / AI / Creative Developer                    ║
 ║  FOCUS     : Web • Data • ML • Interactive Experiences               ║
-║  STATUS    : Building, experimenting, shipping                       ║
-║  THEME     : CYBERPUNK // NEON // FUTURE-FACING                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -84,7 +82,7 @@ I build products where **software engineering, data, machine learning, and visua
 | [**pyonpyonn.github.io**](https://github.com/pyonpyonn/pyonpyonn.github.io) | Personal web space and experiments |
 | [**genshin_scripts**](https://github.com/pyonpyonn/genshin_scripts) | Scripts, automation, and experimentation |
 
-## `> CURRENT_PROTOCOL`
+## `> DEVELOPMENT_LOOP`
 
 ```python
 stack = {
@@ -114,7 +112,3 @@ CODE IN THE DARK.
 BUILD FOR THE FUTURE.
 SHIP WITH STYLE.
 ```
-
-<p align="center">
-  <sub>◢◤ CYBERPUNK DEV PROFILE // ONLINE ◢◤</sub>
-</p>
