@@ -66,12 +66,12 @@ I build products where **software engineering, data, machine learning, and visua
 ## `> GITHUB_SIGNAL`
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=pyonpyonn&show_icons=true&hide_border=true&bg_color=05070D&title_color=00F7FF&icon_color=FF00D4&text_color=C8D7FF&ring_color=8B5CF6" alt="GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyonpyonn&layout=compact&hide_border=true&bg_color=05070D&title_color=00F7FF&text_color=C8D7FF" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyonpyonn&theme=tokyonight" alt="GitHub profile activity summary" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pyonpyonn&hide_border=true&background=05070D&stroke=1B2440&ring=00F7FF&fire=FF00D4&currStreakNum=FFFFFF&sideNums=C8D7FF&currStreakLabel=00F7FF&sideLabels=8B5CF6&dates=8290A6" alt="GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pyonpyonn&theme=tokyonight" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pyonpyonn&theme=tokyonight" alt="GitHub statistics" />
 </p>
 
 ## `> FEATURED_NODES`
@@ -82,22 +82,18 @@ I build products where **software engineering, data, machine learning, and visua
 | [**pyonpyonn.github.io**](https://github.com/pyonpyonn/pyonpyonn.github.io) | Personal web space and experiments |
 | [**genshin_scripts**](https://github.com/pyonpyonn/genshin_scripts) | Scripts, automation, and experimentation |
 
-## `> DEVELOPMENT_LOOP`
+## `> WHAT_I_BUILD`
 
-```python
-stack = {
-    "web": ["Next.js", "React", "Three.js"],
-    "data": ["Python", "Pandas", "NumPy"],
-    "ml": ["Machine Learning"],
-    "backend": ["Flask", "Supabase"],
-    "ship": ["Git", "GitHub", "Vercel"],
-}
-
-while True:
-    learn()
-    build()
-    ship()
-```
+<table>
+  <tr>
+    <td width="50%"><strong>⚡ Full-Stack Products</strong><br/>Modern interfaces, APIs, databases, authentication and production deployment.</td>
+    <td width="50%"><strong>🧠 Data + Machine Learning</strong><br/>Python-based analysis, ML experimentation, automation and data-driven systems.</td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>🌐 Interactive Web</strong><br/>Responsive frontend experiences with Next.js, React and Three.js.</td>
+    <td width="50%"><strong>🔧 Systems + Automation</strong><br/>Practical tooling, integrations and workflows that turn ideas into working software.</td>
+  </tr>
+</table>
 
 ## `> TRANSMISSION`
 
@@ -106,9 +102,3 @@ while True:
     <img src="https://img.shields.io/badge/GITHUB_NODE-pyonpyonn-05070D?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub profile" />
   </a>
 </p>
-
-```text
-CODE IN THE DARK.
-BUILD FOR THE FUTURE.
-SHIP WITH STYLE.
-```
