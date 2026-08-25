@@ -54,8 +54,9 @@ I specialize in:
 
 ## `> WHAT_I_BUILD`
 <table>
-<tr><td>🚀 <b>SaaS Products</b><br/>Subscription platforms, dashboards, authentication systems, payments, and scalable cloud applications.</td><td>🧠 <b>AI Applications</b><br/>Machine learning systems, automation, intelligent workflows, and data-driven solutions.</td></tr>
-<tr><td>🌐 <b>Web Platforms</b><br/>Modern full-stack products with beautiful interfaces.</td><td>⚡ <b>Digital Systems</b><br/>APIs, integrations, developer tools, and automation solutions.</td></tr>
+<tr><td><b>SaaS Products</b><br/>Subscription platforms, business dashboards, authentication systems, user management, payment integrations, and scalable cloud applications.</td><td><b>AI Applications</b><br/>Machine learning solutions, AI-powered workflows, data processing systems, automation tools, and intelligent applications.</td></tr>
+<tr><td><b>Full-Stack Web Platforms</b><br/>Modern applications built with Next.js, React, TypeScript, APIs, databases, and responsive user experiences.</td><td><b>Interactive Experiences</b><br/>Creative interfaces, 3D web experiences, animations, and immersive digital products using modern frontend technologies.</td></tr>
+<tr><td><b>Backend & API Systems</b><br/>Reliable backend services, REST APIs, database architectures, integrations, and automation workflows.</td><td><b>Cloud & DevOps Solutions</b><br/>Deployment pipelines, cloud infrastructure, containerized applications, and production engineering workflows.</td></tr>
 </table>
 
 ## `> CONTACT_NODE`
