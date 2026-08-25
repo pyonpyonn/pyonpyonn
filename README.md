@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cyberpunk-banner.svg" width="100%" alt="Syed Safwan banner" />
+  <img src="./assets/cyberpunk-banner.svg?v=3" width="100%" alt="Syed Safwan banner" />
 </p>
 
 <p align="center">
@@ -24,29 +24,48 @@ I design and build scalable digital products combining modern web engineering, a
 
 I create production-ready applications, SaaS platforms, automation systems, APIs, and interactive digital experiences.
 
-- Building full-stack applications from idea to deployment
-- Developing AI-powered and data-driven solutions
-- Creating scalable SaaS products
-- Designing modern web experiences
-- Connecting frontend, backend, databases, and cloud infrastructure
-
 ## `> TECH_STACK`
 
 ### 🧠 Languages / Data / AI
-<p><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /></p>
-<p>Python • Pandas • NumPy • Scikit-Learn • Machine Learning • Data Analysis</p>
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/PYTHON-05070D?style=for-the-badge&logo=python&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/PANDAS-05070D?style=for-the-badge&logo=pandas&logoColor=FF00D4" />
+<img src="https://img.shields.io/badge/NUMPY-05070D?style=for-the-badge&logo=numpy&logoColor=7DF9FF" />
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-05070D?style=for-the-badge&logo=scikitlearn&logoColor=FF4ECD" />
+<img src="https://img.shields.io/badge/DATA_ANALYSIS-05070D?style=for-the-badge&logo=databricks&logoColor=FFAA00" />
+</p>
 
 ### 🌐 Frontend / Creative Development
-<p><img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css" /></p>
-<p>Next.js • React • Three.js • TypeScript • TailwindCSS • Framer Motion</p>
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/THREE.JS-05070D?style=for-the-badge&logo=threedotjs&logoColor=FF00D4" />
+<img src="https://img.shields.io/badge/TAILWINDCSS-05070D?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/FRAMER_MOTION-05070D?style=for-the-badge&logo=framer&logoColor=FFFFFF" />
+</p>
 
 ### ⚙️ Backend / Database / SaaS
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb,redis,firebase" /></p>
-<p>Node.js • Express • Flask • PostgreSQL • MongoDB • Redis • Supabase • Firebase</p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb,redis,firebase" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/SUPABASE-05070D?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+<img src="https://img.shields.io/badge/API_DEVELOPMENT-05070D?style=for-the-badge&logo=fastapi&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/SAAS_BUILDING-05070D?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
+</p>
 
 ### 🚀 DevOps / Cloud / Workflow
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,linux" /></p>
-<p>Git • GitHub • Docker • Vercel • AWS • Linux • CI/CD</p>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,linux" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/CI%2FCD-05070D?style=for-the-badge&logo=githubactions&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/CLOUD_DEPLOYMENT-05070D?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+</p>
 
 ## `> GITHUB_SIGNAL`
 
@@ -54,18 +73,12 @@ I create production-ready applications, SaaS platforms, automation systems, APIs
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyonpyonn&theme=tokyonight" width="100%" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pyonpyonn&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pyonpyonn&theme=tokyonight" width="49%" />
-</p>
-
 ## `> WHAT_I_BUILD`
 
 <table>
-<tr><td><h3>🚀 SaaS Products</h3>Subscription platforms, dashboards, authentication, payments, and scalable cloud applications.</td><td><h3>🧠 AI Applications</h3>Machine learning systems, automation, and intelligent workflows.</td></tr>
-<tr><td><h3>🌐 Web Platforms</h3>Modern full-stack products with beautiful interfaces.</td><td><h3>⚡ Digital Systems</h3>APIs, integrations, developer tools, and automation.</td></tr>
+<tr><td>🚀 SaaS Products<br/>Subscription platforms, dashboards, authentication, payments, and scalable cloud applications.</td><td>🧠 AI Applications<br/>Machine learning systems, automation, and intelligent workflows.</td></tr>
+<tr><td>🌐 Web Platforms<br/>Modern full-stack products and interactive experiences.</td><td>⚡ Digital Systems<br/>APIs, integrations, developer tools, and automation.</td></tr>
 </table>
 
 ## `> CONTACT_NODE`
-
 <p align="center"><img src="https://img.shields.io/badge/GITHUB-pyonpyonn-05070D?style=for-the-badge&logo=github&logoColor=00F7FF" /></p>
