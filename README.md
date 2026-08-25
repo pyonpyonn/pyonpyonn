@@ -20,45 +20,43 @@
 
 ## `> ABOUT_ME`
 
-I am a Full-Stack Developer focused on building scalable digital products that combine modern web engineering, artificial intelligence, data systems, and cloud infrastructure.
+I am a Full-Stack Developer focused on building scalable digital products combining modern web engineering, artificial intelligence, data systems, and cloud infrastructure.
 
-My work covers the complete product lifecycle — from designing user experiences and building frontend applications to developing backend services, databases, APIs, deployment pipelines, and production-ready SaaS platforms.
+My work covers frontend experiences, backend systems, APIs, databases, automation workflows, and production-ready SaaS platforms.
 
 I specialize in:
 
-- 🚀 Building SaaS products with scalable architecture, authentication, dashboards, and cloud-based services
-- 🌐 Creating modern web applications using Next.js, React, TypeScript, and interactive technologies like Three.js
-- 🧠 Developing AI and machine learning solutions using Python, data processing, and intelligent automation workflows
-- 📊 Working with data analysis, visualization, and machine learning pipelines using Python ecosystems
-- ⚙️ Designing backend systems, APIs, databases, and integrations for reliable applications
-- ☁️ Deploying and maintaining applications using modern cloud and DevOps workflows
-- 🔧 Building automation tools and digital systems that transform ideas into real products
+- 🚀 SaaS products, dashboards, authentication, and cloud applications
+- 🌐 Modern web applications using Next.js, React, TypeScript, and Three.js
+- 🧠 AI and machine learning solutions using Python and data workflows
+- ⚙️ Backend APIs, databases, integrations, and automation systems
+- ☁️ Cloud deployment and DevOps workflows
 
 ## `> TECH_STACK`
 
 ### 🧠 Languages / Data / AI
-Python • PyTorch • TensorFlow • Pandas • NumPy • Machine Learning • Data Analysis
+<p><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /></p>
+<p><img src="https://img.shields.io/badge/PYTHON-05070D?style=for-the-badge&logo=python&logoColor=00F7FF" /><img src="https://img.shields.io/badge/PANDAS-05070D?style=for-the-badge&logo=pandas&logoColor=FF00D4" /><img src="https://img.shields.io/badge/NUMPY-05070D?style=for-the-badge&logo=numpy&logoColor=7DF9FF" /><img src="https://img.shields.io/badge/MACHINE_LEARNING-05070D?style=for-the-badge&logo=scikitlearn&logoColor=FF4ECD" /></p>
 
 ### 🌐 Frontend / Creative Development
-Next.js • React • TypeScript • JavaScript • Three.js • TailwindCSS • Framer Motion
+<p><img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css" /></p>
+<p><img src="https://img.shields.io/badge/THREE.JS-05070D?style=for-the-badge&logo=threedotjs&logoColor=FF00D4" /><img src="https://img.shields.io/badge/TAILWINDCSS-05070D?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" /><img src="https://img.shields.io/badge/FRAMER_MOTION-05070D?style=for-the-badge&logo=framer&logoColor=FFFFFF" /></p>
 
 ### ⚙️ Backend / Database / SaaS
-Node.js • Express • Flask • PostgreSQL • MongoDB • Redis • Supabase • Firebase
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb,redis,firebase" /></p>
+<p><img src="https://img.shields.io/badge/SUPABASE-05070D?style=for-the-badge&logo=supabase&logoColor=3ECF8E" /><img src="https://img.shields.io/badge/API_DEVELOPMENT-05070D?style=for-the-badge&logo=fastapi&logoColor=00F7FF" /><img src="https://img.shields.io/badge/SAAS_BUILDING-05070D?style=for-the-badge&logo=cloudflare&logoColor=F38020" /></p>
 
 ### 🚀 DevOps / Cloud / Workflow
-Git • GitHub • Docker • Vercel • AWS • Linux • CI/CD
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,linux" /></p>
 
 ## `> GITHUB_SIGNAL`
-
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyonpyonn&theme=tokyonight" width="100%" /></p>
 
 ## `> WHAT_I_BUILD`
-
 <table>
 <tr><td>🚀 <b>SaaS Products</b><br/>Subscription platforms, dashboards, authentication systems, payments, and scalable cloud applications.</td><td>🧠 <b>AI Applications</b><br/>Machine learning systems, automation, intelligent workflows, and data-driven solutions.</td></tr>
 <tr><td>🌐 <b>Web Platforms</b><br/>Modern full-stack products with beautiful interfaces.</td><td>⚡ <b>Digital Systems</b><br/>APIs, integrations, developer tools, and automation solutions.</td></tr>
 </table>
 
 ## `> CONTACT_NODE`
-
 <p align="center"><img src="https://img.shields.io/badge/GITHUB-pyonpyonn-05070D?style=for-the-badge&logo=github&logoColor=00F7FF" /></p>
