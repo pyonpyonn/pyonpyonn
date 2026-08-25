@@ -14,7 +14,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║ USER   : Syed Safwan                                             ║
 ║ ROLE   : Full-Stack Developer / AI Engineer / SaaS Builder       ║
-║ FOCUS  : Web • Cloud • Data • Automation • Interactive Systems    ║
+║ FOCUS  : Web • Cloud • Data • Automation • Interactive Systems   ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
