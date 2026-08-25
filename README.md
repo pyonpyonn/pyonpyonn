@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cyberpunk-banner.svg" width="100%" alt="PYONPYONN banner" />
+  <img src="./assets/cyberpunk-banner.svg" width="100%" alt="Syed Safwan banner" />
 </p>
 
 <p align="center">
@@ -14,35 +14,39 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║ USER   : Syed Safwan                                             ║
 ║ ROLE   : Full-Stack Developer / AI Engineer / SaaS Builder       ║
-║ FOCUS  : Web • Cloud • Data • Automation • Interactive Systems   ║
+║ FOCUS  : Web • Cloud • Data • Automation • Interactive Systems    ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ## `> ABOUT_ME`
 
-I design and build scalable digital products combining **modern web engineering, artificial intelligence, data systems, and cloud technologies**.
+I design and build scalable digital products combining modern web engineering, artificial intelligence, data systems, and cloud technologies.
 
-My focus is building production-ready applications, SaaS platforms, automation systems, APIs, and interactive digital experiences.
+I create production-ready applications, SaaS platforms, automation systems, APIs, and interactive digital experiences.
 
 - Building full-stack applications from idea to deployment
 - Developing AI-powered and data-driven solutions
-- Creating SaaS products with scalable architectures
-- Designing modern interfaces and immersive web experiences
+- Creating scalable SaaS products
+- Designing modern web experiences
 - Connecting frontend, backend, databases, and cloud infrastructure
 
 ## `> TECH_STACK`
 
 ### 🧠 Languages / Data / AI
-Python • PyTorch • TensorFlow • Pandas • NumPy • Machine Learning • Data Analysis
+<p><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /></p>
+<p>Python • Pandas • NumPy • Scikit-Learn • Machine Learning • Data Analysis</p>
 
 ### 🌐 Frontend / Creative Development
-Next.js • React • TypeScript • JavaScript • Three.js • TailwindCSS • Framer Motion
+<p><img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css" /></p>
+<p>Next.js • React • Three.js • TypeScript • TailwindCSS • Framer Motion</p>
 
 ### ⚙️ Backend / Database / SaaS
-Node.js • Express • Flask • PostgreSQL • MongoDB • Redis • Supabase • Firebase
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb,redis,firebase" /></p>
+<p>Node.js • Express • Flask • PostgreSQL • MongoDB • Redis • Supabase • Firebase</p>
 
 ### 🚀 DevOps / Cloud / Workflow
-Git • GitHub • Docker • Vercel • AWS • Linux
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,linux" /></p>
+<p>Git • GitHub • Docker • Vercel • AWS • Linux • CI/CD</p>
 
 ## `> GITHUB_SIGNAL`
 
@@ -50,35 +54,18 @@ Git • GitHub • Docker • Vercel • AWS • Linux
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyonpyonn&theme=tokyonight" width="100%" />
 </p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pyonpyonn&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pyonpyonn&theme=tokyonight" width="49%" />
+</p>
+
 ## `> WHAT_I_BUILD`
 
 <table>
-<tr>
-<td width="50%">
-<h3>🚀 SaaS Products</h3>
-Building subscription platforms, dashboards, authentication systems, payment integrations, and scalable cloud applications.
-</td>
-<td width="50%">
-<h3>🧠 AI Applications</h3>
-Creating intelligent systems using machine learning, automation, and data-driven workflows.
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>🌐 Web Platforms</h3>
-Developing modern full-stack products with beautiful interfaces and reliable backend systems.
-</td>
-<td width="50%">
-<h3>⚡ Digital Systems</h3>
-Building APIs, integrations, developer tools, and automation solutions.
-</td>
-</tr>
+<tr><td><h3>🚀 SaaS Products</h3>Subscription platforms, dashboards, authentication, payments, and scalable cloud applications.</td><td><h3>🧠 AI Applications</h3>Machine learning systems, automation, and intelligent workflows.</td></tr>
+<tr><td><h3>🌐 Web Platforms</h3>Modern full-stack products with beautiful interfaces.</td><td><h3>⚡ Digital Systems</h3>APIs, integrations, developer tools, and automation.</td></tr>
 </table>
 
 ## `> CONTACT_NODE`
 
-<p align="center">
-<a href="https://github.com/pyonpyonn">
-<img src="https://img.shields.io/badge/GITHUB-pyonpyonn-05070D?style=for-the-badge&logo=github&logoColor=00F7FF" />
-</a>
-</p>
+<p align="center"><img src="https://img.shields.io/badge/GITHUB-pyonpyonn-05070D?style=for-the-badge&logo=github&logoColor=00F7FF" /></p>
